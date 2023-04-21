@@ -55,7 +55,7 @@ useEffect(() => {
   const options = {
     method: 'GET',
     headers: {
-      'X-RapidAPI-Key': '',
+      'X-RapidAPI-Key': '7663f6a4b9mshc5e75ba145bcf66p12d78bjsn71414e15d104',
       'X-RapidAPI-Host': 'contextualwebsearch-websearch-v1.p.rapidapi.com'
     }
   };
